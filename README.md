@@ -1,2 +1,1 @@
-# git-equipe-java
-learn github in equipe
+Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [PREENCHER AQUI]
