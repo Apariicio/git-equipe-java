@@ -1,1 +1,1 @@
-Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = Samuel F
+Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = Arthur M
